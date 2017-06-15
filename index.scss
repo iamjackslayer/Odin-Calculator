@@ -1,0 +1,18 @@
+$check: (1px, red, solid);
+section{
+	div#screen{
+		height: 40px;
+		background-color: grey;
+		border: $check;
+		text-align: center;
+		
+	}
+	div.button-grp{
+		button{
+			
+		}
+	}
+	div.btn{
+		text-align: center;
+	}
+}

@@ -1,0 +1,9 @@
+section div#screen {
+  height: 40px;
+  background-color: grey;
+  border: 1px, red, solid;
+  text-align: center; }
+section div.btn {
+  text-align: center; }
+
+/*# sourceMappingURL=index.css.map */
